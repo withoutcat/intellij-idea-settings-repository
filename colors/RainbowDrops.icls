@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2021-08-03T19:50:17</property>
+    <property name="modified">2021-06-02T16:30:18</property>
     <property name="originalScheme">RainbowDrops</property>
     <property name="vendorMail" />
     <property name="vendorName">RainbowDrops</property>
@@ -317,7 +317,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="e3b354" />
+        <option name="FOREGROUND" value="b27c21" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
