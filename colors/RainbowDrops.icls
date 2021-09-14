@@ -3,10 +3,11 @@
     <property name="created">2021-09-04T18:53:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-09-13T17:56:24</property>
+    <property name="modified">2021-09-13T20:07:13</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
+    <option name="CARET_COLOR" value="ffcc00" />
     <option name="DOC_COMMENT_GUIDE" value="444444" />
     <option name="SELECTION_BACKGROUND" value="3e515d" />
     <option name="SELECTION_FOREGROUND" value="94ceef" />
@@ -60,7 +61,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="93f326" />
+        <option name="FOREGROUND" value="a7ec21" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -82,6 +83,13 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="80f2f6" />
+      </value>
+    </option>
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="f87c16" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -147,6 +155,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6acc32" />
+      </value>
+    </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cc81ba" />
@@ -166,7 +179,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="a4a4a4" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="d9e8f7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
