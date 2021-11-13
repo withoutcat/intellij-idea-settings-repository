@@ -5,6 +5,6 @@
     <option name="PROXY_PORT" value="3128" />
     <option name="PROXY_EXCEPTIONS" value="localhost, 127.*, 10.*, 192.168.*, *.neusoft.com" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://dl-proxy.neusoft.com:8080/" />
+    <option name="PAC_URL" value="http://127.0.0.1:10810/pac/?t=202151" />
   </component>
 </application>
