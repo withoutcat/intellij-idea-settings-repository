@@ -4,10 +4,10 @@
     <property name="created">2021-09-04T18:53:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-01-11T12:46:23</property>
+    <property name="modified">2022-04-11T16:46:30</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Cascadia Code" />
+  <option name="CONSOLE_FONT_NAME" value="Cascadia Code PL" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
