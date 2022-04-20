@@ -4,5 +4,6 @@
     <option name="FONT_FAMILY" value="Cascadia Code PL" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
 </application>
