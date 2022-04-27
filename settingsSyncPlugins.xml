@@ -2,6 +2,11 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="com.intellij.play">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.intellij.zh">
           <value>
             <PluginData>
@@ -20,6 +25,28 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.avaje.ebean11.enhancer">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.intellij.scala">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
                 </set>
               </option>
             </PluginData>
