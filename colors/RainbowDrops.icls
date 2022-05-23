@@ -4,7 +4,7 @@
     <property name="created">2021-09-04T18:53:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-05-11T17:10:39</property>
+    <property name="modified">2022-05-23T09:30:40</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Cascadia Code PL" />
@@ -193,6 +193,12 @@
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="7cb7a5" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="79abff" />
