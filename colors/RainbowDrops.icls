@@ -4,7 +4,7 @@
     <property name="created">2021-09-04T18:53:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-05-28T01:31:15</property>
+    <property name="modified">2022-06-19T01:20:50</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <console-font>
@@ -243,6 +243,13 @@
       <value>
         <option name="FOREGROUND" value="f6a263" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="40332b" />
+        <option name="EFFECT_COLOR" value="e0b213" />
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
