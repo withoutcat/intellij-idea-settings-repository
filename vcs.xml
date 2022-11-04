@@ -14,6 +14,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="sunziwens@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.128.18/liangshl/gaia_tools.git" />
+          <option name="userName" value="sun_zw" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\IdeaProjects\practice-project-from-github" />
