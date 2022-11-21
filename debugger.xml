@@ -89,12 +89,6 @@
       <debugger id="ObjectiveC">
         <configuration>
           <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
-          <nt-symbol-settings />
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
