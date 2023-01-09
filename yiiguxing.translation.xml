@@ -27,6 +27,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="想定外の値を検知" />
+      <item value="設定値に想定外の値がないかのチェック処理" />
+      <item value="update Assist Profile Data Set" />
       <item value="get Assist Seek Bar Params With Other Position" />
       <item value="パラメータが設定可能範囲外の場合は、設定可能な値をセットする" />
       <item value="プロファイル 2、ECOでのアシスト特性(ユーザー設定値)" />
@@ -40,9 +43,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="5" />
-        <entry key="JAPANESE" value="14" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="JAPANESE" value="17" />
       </map>
     </option>
   </component>
