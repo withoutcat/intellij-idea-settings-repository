@@ -27,16 +27,22 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Max Torque Levelが不正な場合は、選択範囲な値に修正する" />
+      <item value="get Assist Seek Bar Params With Other Position" />
       <item value="パラメータが設定可能範囲外の場合は、設定可能な値をセットする" />
+      <item value="プロファイル 2、ECOでのアシスト特性(ユーザー設定値)" />
+      <item value="上限トルクの最大値" />
+      <item value="プロファイル 1、アシストモード表示" />
+      <item value="上限トルクのレベル" />
       <item value="最大値はOEMデフォルト値なので、ここでは値を補正できない" />
+      <item value="プロファイル" />
+      <item value="Max Torque Levelが不正な場合は、選択範囲な値に修正する" />
       <item value="ジャンクションAかどうか" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="4" />
-        <entry key="JAPANESE" value="6" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="JAPANESE" value="14" />
       </map>
     </option>
   </component>
