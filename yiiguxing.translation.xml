@@ -27,10 +27,22 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="想定外の値を検知" />
+      <item value="スタートモード" />
+      <item value="プロファイル 1、BOOSTHIGHでのアシスト特性(ユーザー設定値)" />
+      <item value="プロファイル 1、BOOSTでの上限トルク(OEMデフォルト値)" />
+      <item value="プロファイル 1、BOOSTでのアシスト特性(OEMデフォルト値)" />
+      <item value="Character" />
+      <item value="プロファイル 1、アシストモード表示(OEMデフォルト値)" />
+      <item value="Assist Character Level Range" />
+      <item value="選択可能な上限トルクレベルを取得" />
+      <item value="選択可能なアシスト特性レベルを取得" />
+      <item value="assist Profile Data Set" />
+      <item value="assist Profile Data" />
       <item value="設定値に想定外の値がないかのチェック処理" />
-      <item value="update Assist Profile Data Set" />
+      <item value="Seek Bar Slider Barの表示に必要なデータのチェックを行う" />
       <item value="get Assist Seek Bar Params With Other Position" />
+      <item value="想定外の値を検知" />
+      <item value="update Assist Profile Data Set" />
       <item value="パラメータが設定可能範囲外の場合は、設定可能な値をセットする" />
       <item value="プロファイル 2、ECOでのアシスト特性(ユーザー設定値)" />
       <item value="上限トルクの最大値" />
@@ -43,9 +55,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="6" />
-        <entry key="JAPANESE" value="17" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="JAPANESE" value="26" />
       </map>
     </option>
   </component>
