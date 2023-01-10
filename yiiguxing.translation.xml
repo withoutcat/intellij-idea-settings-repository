@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="フィルタリングするパーミッション" />
       <item value="can Get On Customize" />
       <item value="JSON から Customize 内のすべての &quot;Get&quot;: &quot;●&quot; 項目を取得する" />
       <item value="The last element in the progression." />
@@ -80,7 +81,7 @@
         <entry key="CHINESE" value="53" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="16" />
-        <entry key="JAPANESE" value="53" />
+        <entry key="JAPANESE" value="54" />
       </map>
     </option>
   </component>
