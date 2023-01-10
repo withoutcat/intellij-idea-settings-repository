@@ -28,6 +28,7 @@
   <component name="Translation.States">
     <histories>
       <item value="ライディングキャラクタリスティックデフォルト値取得" />
+      <item value="region カスタマイズ" />
       <item value="ライディングキャラクタリスティック(プロファイルは除く)を設定できるか" />
       <item value="カスタマイズ" />
       <item value="エラーログを格納している領域のアドレスマップのタイプ" />
@@ -76,14 +77,13 @@
       <item value="get Assist Seek Bar Params With Other Position" />
       <item value="想定外の値を検知" />
       <item value="update Assist Profile Data Set" />
-      <item value="パラメータが設定可能範囲外の場合は、設定可能な値をセットする" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="67" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="17" />
-        <entry key="JAPANESE" value="66" />
+        <entry key="JAPANESE" value="68" />
       </map>
     </option>
   </component>
