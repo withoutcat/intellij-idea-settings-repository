@@ -27,6 +27,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="can Get On Customize" />
+      <item value="JSON から Customize 内のすべての &quot;Get&quot;: &quot;●&quot; 項目を取得する" />
       <item value="The last element in the progression." />
       <item value="設定値に想定外の値がないかのチェック処理" />
       <item value="Seek Bar Slider Barの表示に必要なデータのチェックを行う" />
@@ -75,10 +77,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
+        <entry key="CHINESE" value="53" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="15" />
-        <entry key="JAPANESE" value="52" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="JAPANESE" value="53" />
       </map>
     </option>
   </component>
