@@ -27,6 +27,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="customize Specs" />
+      <item value="スイッチ機能設定" />
       <item value="RDが接続されている場合は禁止領域を取得する" />
       <item value="RD-R 9150の禁止領域はLOW側のみ" />
       <item value="default Buzzer Mode" />
@@ -75,15 +77,13 @@
       <item value="アシストモード表示" />
       <item value="アシストモード表示(OEMデフォルト値)" />
       <item value="プロファイル名" />
-      <item value="can Customize Display Name And Assist Mode" />
-      <item value="フィルタリングするパーミッション" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
+        <entry key="CHINESE" value="105" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="26" />
-        <entry key="JAPANESE" value="104" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="JAPANESE" value="105" />
       </map>
     </option>
   </component>
