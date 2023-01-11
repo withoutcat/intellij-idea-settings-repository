@@ -27,6 +27,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="RDが接続されている場合は禁止領域を取得する" />
+      <item value="RD-R 9150の禁止領域はLOW側のみ" />
       <item value="default Buzzer Mode" />
       <item value="設定する" />
       <item value="オフ" />
@@ -75,15 +77,13 @@
       <item value="プロファイル名" />
       <item value="can Customize Display Name And Assist Mode" />
       <item value="フィルタリングするパーミッション" />
-      <item value="can Get On Customize" />
-      <item value="JSON から Customize 内のすべての &quot;Get&quot;: &quot;●&quot; 項目を取得する" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
+        <entry key="CHINESE" value="103" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="26" />
-        <entry key="JAPANESE" value="101" />
+        <entry key="JAPANESE" value="104" />
       </map>
     </option>
   </component>
