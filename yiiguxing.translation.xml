@@ -27,7 +27,31 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="表示時間をカスタマイズ可能か" />
+      <item value="minor Category" />
+      <item value="ユニットのカテゴリ" />
+      <item value="SC(DI 2用)" />
+      <item value="サイクルコンピュータ" />
+      <item value="オート変速1" />
+      <item value="変速タイミング" />
+      <item value="オート変速1: 変速タイミングのデフォルト値" />
+      <item value="選択可能な上限トルクレベルを取得" />
       <item value="選択可能なアシスト特性レベルを取得" />
+      <item value="FIXME: BASIC MODEの設定になっている。FINE TUNE MODEの設定もできるようにする必要あり" />
+      <item value="Profile Setting Fine Tune Mode" />
+      <item value="アシスト開始" />
+      <item value="プロファイル" />
+      <item value="レベル1" />
+      <item value="アシスト特性" />
+      <item value="EXPLORER" />
+      <item value="上限トルクのレベル" />
+      <item value="Returns the ordinal of this enumeration constant (its position in its enum declaration, where the initial constant is assigned an ordinal of zero)." />
+      <item value="get Selectable Max Torque Level Range" />
+      <item value="BOOSTでの上限トルク" />
+      <item value="上限トルクのレベルの範囲" />
+      <item value="上限トルクの最小値" />
+      <item value="シフトタイミング" />
+      <item value="選択可能なFINE TUNE MODEの下限トルクのレベルを取得" />
       <item value="assist Pattern" />
       <item value="デフォルト設定を作成する" />
       <item value="can Set Assist Mode" />
@@ -51,39 +75,15 @@
       <item value="Seek Bar Slider Barの表示に必要なデータのチェックを行う" />
       <item value="Slider Bar" />
       <item value="Seek Bar" />
-      <item value="上限トルクの最小値" />
       <item value="アプリ切断後の変速モード" />
       <item value="Auto1Auto2Manualのオート変速の設定(ペダリング中のオート変速、AUTO FREE SHIFT、乗車シーン、上り坂の反応性)" />
-      <item value="スタートモード" />
-      <item value="スタートギア" />
-      <item value="上り坂での反応性" />
-      <item value="変速アドバイス" />
-      <item value="オート変速を設定する条件を満たしているか" />
-      <item value="can Set Auto Gear Change Mode" />
-      <item value="シフトタイミング" />
-      <item value="オート変速1" />
-      <item value="オート変速1、スタートモード" />
-      <item value="最小スプロケット歯数" />
-      <item value="selectable Auto Gear Change Adjust" />
-      <item value="他社バッテリーを除いた互換性のあるバッテリー群" />
-      <item value="オート変速1、オート変速2: ペダリング中のオート変速のデフォルト値" />
-      <item value="段数リミット設定ができるか" />
-      <item value="段数 (リア変速)" />
-      <item value="プロファイル 1、BOOSTHIGHでのアシスト特性(ユーザー設定値)" />
-      <item value="プロファイル 1、BOOSTでの上限トルク(OEMデフォルト値)" />
-      <item value="プロファイル 1、BOOSTでのアシスト特性(OEMデフォルト値)" />
-      <item value="Character" />
-      <item value="プロファイル 1、アシストモード表示(OEMデフォルト値)" />
-      <item value="Assist Character Level Range" />
-      <item value="選択可能な上限トルクレベルを取得" />
-      <item value="assist Profile Data Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="94" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="20" />
-        <entry key="JAPANESE" value="71" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="JAPANESE" value="95" />
       </map>
     </option>
   </component>
