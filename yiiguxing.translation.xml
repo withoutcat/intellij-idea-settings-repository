@@ -27,6 +27,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="default Buzzer Mode" />
+      <item value="設定する" />
+      <item value="オフ" />
+      <item value="オン" />
+      <item value="SC-M 9050・SC-MT 800・SC-M 9051のみ" />
+      <item value="ビープ設定" />
+      <item value="ビープ設定をカスタマイズ可能か" />
       <item value="表示時間をカスタマイズ可能か" />
       <item value="minor Category" />
       <item value="ユニットのカテゴリ" />
@@ -70,20 +77,13 @@
       <item value="フィルタリングするパーミッション" />
       <item value="can Get On Customize" />
       <item value="JSON から Customize 内のすべての &quot;Get&quot;: &quot;●&quot; 項目を取得する" />
-      <item value="The last element in the progression." />
-      <item value="設定値に想定外の値がないかのチェック処理" />
-      <item value="Seek Bar Slider Barの表示に必要なデータのチェックを行う" />
-      <item value="Slider Bar" />
-      <item value="Seek Bar" />
-      <item value="アプリ切断後の変速モード" />
-      <item value="Auto1Auto2Manualのオート変速の設定(ペダリング中のオート変速、AUTO FREE SHIFT、乗車シーン、上り坂の反応性)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
+        <entry key="CHINESE" value="101" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="25" />
-        <entry key="JAPANESE" value="95" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="JAPANESE" value="101" />
       </map>
     </option>
   </component>
