@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="注意: 定数にするとiOSでCoroutine Exceptioneが発生する ユニットを追加する際はPCR3.5.0_4.0.0_ユニット仕様書_TOPの(対応ユニット一覧・対応BT一覧)と同じ順番で定義すること" />
       <item value="customize Specs" />
       <item value="スイッチ機能設定" />
       <item value="RDが接続されている場合は禁止領域を取得する" />
@@ -76,14 +77,13 @@
       <item value="表示名とアシストモード表示を設定できるか" />
       <item value="アシストモード表示" />
       <item value="アシストモード表示(OEMデフォルト値)" />
-      <item value="プロファイル名" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="105" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="27" />
-        <entry key="JAPANESE" value="105" />
+        <entry key="JAPANESE" value="106" />
       </map>
     </option>
   </component>
