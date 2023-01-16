@@ -19,7 +19,7 @@
     <option name="lastTrimTime" value="1636806440513" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673252488476" />
+    <option name="lastTrimTime" value="1673834036734" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -27,6 +27,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="アプリでの表示名 基本的に UnitSpec.ModelNo へのショートカット。 ただし継承先で上書かれる可能性がある。 アプリで表示する際に使用する。" />
+      <item value="CustomizeTopCustomizeSwitchでユニット名を表示する際に使用する。 SwitchTypeVariableUnitの時、&quot;[modelNo] for Assist&quot;になる場合がある。" />
+      <item value="カスタマイズ画面での表示名" />
+      <item value="表示名とアシストモード表示を設定できるか" />
       <item value="predicate" />
       <item value="ファームウェア" />
       <item value="Series No" />
@@ -73,17 +77,13 @@
       <item value="選択可能なFINE TUNE MODEの下限トルクのレベルを取得" />
       <item value="assist Pattern" />
       <item value="デフォルト設定を作成する" />
-      <item value="can Set Assist Mode" />
-      <item value="DYNAMIC" />
-      <item value="ライディングキャラクタリスティックデフォルト値取得" />
-      <item value="region カスタマイズ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
+        <entry key="CHINESE" value="113" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="30" />
-        <entry key="JAPANESE" value="110" />
+        <entry key="JAPANESE" value="114" />
       </map>
     </option>
   </component>
