@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Pads the string to the specified length at the beginning with the specified character or space. Params: length - the desired string length. padChar - the character to pad string with, if it has length less than the length specified. Space is used by default. Returns: Returns a string of length at least length consisting of this string prepended with padChar as many times as are necessary to reach that length." />
       <item value="アプリでの表示名 基本的に UnitSpec.ModelNo へのショートカット。 ただし継承先で上書かれる可能性がある。 アプリで表示する際に使用する。" />
       <item value="CustomizeTopCustomizeSwitchでユニット名を表示する際に使用する。 SwitchTypeVariableUnitの時、&quot;[modelNo] for Assist&quot;になる場合がある。" />
       <item value="カスタマイズ画面での表示名" />
@@ -76,13 +77,12 @@
       <item value="シフトタイミング" />
       <item value="選択可能なFINE TUNE MODEの下限トルクのレベルを取得" />
       <item value="assist Pattern" />
-      <item value="デフォルト設定を作成する" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="114" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="JAPANESE" value="114" />
       </map>
     </option>
