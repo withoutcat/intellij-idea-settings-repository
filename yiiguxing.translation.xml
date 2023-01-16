@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ブートパッチファイル識別子" />
       <item value="互換ジャンル(スイッチタイプAssist Shiftなどの互換制限は無視する)" />
       <item value="互換ジャンル" />
       <item value="Pads the string to the specified length at the beginning with the specified character or space. Params: length - the desired string length. padChar - the character to pad string with, if it has length less than the length specified. Space is used by default. Returns: Returns a string of length at least length consisting of this string prepended with padChar as many times as are necessary to reach that length." />
@@ -76,14 +77,13 @@
       <item value="BOOSTでの上限トルク" />
       <item value="上限トルクのレベルの範囲" />
       <item value="上限トルクの最小値" />
-      <item value="シフトタイミング" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
+        <entry key="CHINESE" value="116" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="31" />
-        <entry key="JAPANESE" value="116" />
+        <entry key="JAPANESE" value="117" />
       </map>
     </option>
   </component>
