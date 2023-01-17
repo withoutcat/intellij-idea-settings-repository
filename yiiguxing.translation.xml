@@ -27,6 +27,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ユニット番号" />
+      <item value="シリーズ番号" />
+      <item value="実装クラスの場合(InterfaceやAbstractではない)trueを返す" />
       <item value="設定されている変速種別" />
       <item value="最大段数対応のユニットか" />
       <item value="is Rear Max Gear" />
@@ -74,16 +77,13 @@
       <item value="サイクルコンピュータ" />
       <item value="オート変速1" />
       <item value="変速タイミング" />
-      <item value="オート変速1: 変速タイミングのデフォルト値" />
-      <item value="選択可能な上限トルクレベルを取得" />
-      <item value="選択可能なアシスト特性レベルを取得" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
+        <entry key="CHINESE" value="125" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="122" />
+        <entry key="JAPANESE" value="126" />
       </map>
     </option>
   </component>
