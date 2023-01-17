@@ -27,13 +27,19 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ユニットカテゴリ番号" />
+      <item value="エラーチェックの種類" />
+      <item value="バッテリー" />
+      <item value="マスターユニット" />
+      <item value="バッテリーマウント" />
+      <item value="内蔵バッテリー" />
+      <item value="DI 2バッテリー" />
+      <item value="カテゴリ" />
       <item value="モデル名" />
       <item value="アプリでの表示名" />
       <item value="メーカ名" />
       <item value="SHIMANO以外" />
       <item value="シフタースイッチ" />
-      <item value="カテゴリ" />
-      <item value="マスターユニット" />
       <item value="ファイル名" />
       <item value="ユニット番号" />
       <item value="シリーズ番号" />
@@ -71,19 +77,13 @@
       <item value="スイッチ機能設定" />
       <item value="RDが接続されている場合は禁止領域を取得する" />
       <item value="RD-R 9150の禁止領域はLOW側のみ" />
-      <item value="default Buzzer Mode" />
-      <item value="設定する" />
-      <item value="オフ" />
-      <item value="オン" />
-      <item value="SC-M 9050・SC-MT 800・SC-M 9051のみ" />
-      <item value="ビープ設定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
+        <entry key="CHINESE" value="157" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="140" />
+        <entry key="JAPANESE" value="158" />
       </map>
     </option>
   </component>
