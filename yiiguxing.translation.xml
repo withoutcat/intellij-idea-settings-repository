@@ -28,8 +28,13 @@
   <component name="Translation.States">
     <histories>
       <item value="モデル名" />
-      <item value="ファイル名" />
       <item value="アプリでの表示名" />
+      <item value="メーカ名" />
+      <item value="SHIMANO以外" />
+      <item value="シフタースイッチ" />
+      <item value="カテゴリ" />
+      <item value="マスターユニット" />
+      <item value="ファイル名" />
       <item value="ユニット番号" />
       <item value="シリーズ番号" />
       <item value="実装クラスの場合(InterfaceやAbstractではない)trueを返す" />
@@ -72,18 +77,13 @@
       <item value="オン" />
       <item value="SC-M 9050・SC-MT 800・SC-M 9051のみ" />
       <item value="ビープ設定" />
-      <item value="ビープ設定をカスタマイズ可能か" />
-      <item value="表示時間をカスタマイズ可能か" />
-      <item value="minor Category" />
-      <item value="ユニットのカテゴリ" />
-      <item value="SC(DI 2用)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
+        <entry key="CHINESE" value="139" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="133" />
+        <entry key="JAPANESE" value="140" />
       </map>
     </option>
   </component>
