@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="explicitly" />
       <item value="ユニットカテゴリ番号" />
       <item value="エラーチェックの種類" />
       <item value="バッテリー" />
@@ -48,7 +49,6 @@
       <item value="最大段数対応のユニットか" />
       <item value="is Rear Max Gear" />
       <item value="DU-E 5000の内容をコピー" />
-      <item value="explicitly" />
       <item value="polymorphic" />
       <item value="Instructs the serialization plugin to turn this class into serializer for specified class forClass. However, it would not be used automatically. To apply it on particular class or property, use Serializable or UseSerializers, or Contextual with runtime registration. @Serializer(forClass) is experimental and unstable feature that can be changed in future releases. Changes may include additional constraints on classes and objects marked with this annotation, behavioural changes and even serialized shape of the class." />
       <item value="Adds serializerClasses to serializers resolving process inside the plugin. Each of serializerClasses must implement KSerializer. Inside the file with this annotation, for each given property of type T in some serializable class, this list would be inspected for the presence of KSerializer&lt;T&gt;. If such serializer is present, it would be used instead of default. Main use-case for this annotation is not to write @Serializable(with=SomeSerializer::class) on each property with custom serializer. Serializers from this list have higher priority than default, but lesser priority than serializers defined on the property itself, such as Serializable (with=...) or Contextual." />
@@ -80,9 +80,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
+        <entry key="CHINESE" value="158" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="JAPANESE" value="158" />
       </map>
     </option>
