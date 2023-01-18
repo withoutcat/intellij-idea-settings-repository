@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns the name of this enum constant, exactly as declared in its enum declaration." />
       <item value="ドライブユニットのエラーログ取得方法のタイプ 　ユニット仕様書_データの設定と取得のDUタブ、取得データを参照" />
       <item value="取得タイプ1" />
       <item value="FIXME: オート変速の項目も追加する必要あり" />
@@ -76,13 +77,12 @@
       <item value="ファームウェア" />
       <item value="Series No" />
       <item value="Model Noを廃止する" />
-      <item value="FWが壊れたユニット" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
+        <entry key="CHINESE" value="163" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="JAPANESE" value="163" />
       </map>
     </option>
