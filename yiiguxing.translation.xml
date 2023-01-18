@@ -27,6 +27,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Rear Max Gear" />
+      <item value="FOMR TYPE EXTERIOR" />
       <item value="モバイル版未対応" />
       <item value="can Preset" />
       <item value="explicitly" />
@@ -49,7 +51,6 @@
       <item value="実装クラスの場合(InterfaceやAbstractではない)trueを返す" />
       <item value="設定されている変速種別" />
       <item value="最大段数対応のユニットか" />
-      <item value="is Rear Max Gear" />
       <item value="DU-E 5000の内容をコピー" />
       <item value="polymorphic" />
       <item value="Instructs the serialization plugin to turn this class into serializer for specified class forClass. However, it would not be used automatically. To apply it on particular class or property, use Serializable or UseSerializers, or Contextual with runtime registration. @Serializer(forClass) is experimental and unstable feature that can be changed in future releases. Changes may include additional constraints on classes and objects marked with this annotation, behavioural changes and even serialized shape of the class." />
@@ -76,13 +77,12 @@
       <item value="content" />
       <item value="注意: 定数にするとiOSでCoroutine Exceptioneが発生する ユニットを追加する際はPCR3.5.0_4.0.0_ユニット仕様書_TOPの(対応ユニット一覧・対応BT一覧)と同じ順番で定義すること" />
       <item value="customize Specs" />
-      <item value="スイッチ機能設定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
+        <entry key="CHINESE" value="159" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="44" />
         <entry key="JAPANESE" value="159" />
       </map>
     </option>
