@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="FIXME: オート変速の項目も追加する必要あり" />
       <item value="選択可能な上限トルクレベルを取得" />
       <item value="is Rear Max Gear" />
       <item value="FOMR TYPE EXTERIOR" />
@@ -76,14 +77,13 @@
       <item value="FWが壊れたユニット" />
       <item value="DCASシリアル番号" />
       <item value="content" />
-      <item value="注意: 定数にするとiOSでCoroutine Exceptioneが発生する ユニットを追加する際はPCR3.5.0_4.0.0_ユニット仕様書_TOPの(対応ユニット一覧・対応BT一覧)と同じ順番で定義すること" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
+        <entry key="CHINESE" value="160" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="44" />
-        <entry key="JAPANESE" value="160" />
+        <entry key="JAPANESE" value="161" />
       </map>
     </option>
   </component>
