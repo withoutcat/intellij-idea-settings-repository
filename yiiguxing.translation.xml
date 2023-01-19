@@ -27,6 +27,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="シリーズ番号のみで判定できるもののみ" />
+      <item value="対応しているマスターユニットかどうかを判定する" />
+      <item value="Returns true if at least one element matches the given predicate." />
       <item value="SMBmr2Unit.MODEL_NO: モバイル版未対応" />
       <item value="SMBtr2Unit.MODEL_NO: モバイル版未対応" />
       <item value="[Units]から互換ジャンルを特定する" />
@@ -74,16 +77,13 @@
       <item value="互換ジャンル(スイッチタイプAssist Shiftなどの互換制限は無視する)" />
       <item value="互換ジャンル" />
       <item value="Pads the string to the specified length at the beginning with the specified character or space. Params: length - the desired string length. padChar - the character to pad string with, if it has length less than the length specified. Space is used by default. Returns: Returns a string of length at least length consisting of this string prepended with padChar as many times as are necessary to reach that length." />
-      <item value="アプリでの表示名 基本的に UnitSpec.ModelNo へのショートカット。 ただし継承先で上書かれる可能性がある。 アプリで表示する際に使用する。" />
-      <item value="CustomizeTopCustomizeSwitchでユニット名を表示する際に使用する。 SwitchTypeVariableUnitの時、&quot;[modelNo] for Assist&quot;になる場合がある。" />
-      <item value="カスタマイズ画面での表示名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
+        <entry key="CHINESE" value="174" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="45" />
-        <entry key="JAPANESE" value="173" />
+        <entry key="ENGLISH" value="46" />
+        <entry key="JAPANESE" value="175" />
       </map>
     </option>
   </component>
