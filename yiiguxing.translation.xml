@@ -27,6 +27,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="SMBmr2Unit.MODEL_NO: モバイル版未対応" />
+      <item value="SMBtr2Unit.MODEL_NO: モバイル版未対応" />
+      <item value="[Units]から互換ジャンルを特定する" />
       <item value="DI 2バッテリー" />
       <item value="エラーチェックの種類" />
       <item value="マスタ(DI 2)の基底クラス" />
@@ -74,16 +77,13 @@
       <item value="アプリでの表示名 基本的に UnitSpec.ModelNo へのショートカット。 ただし継承先で上書かれる可能性がある。 アプリで表示する際に使用する。" />
       <item value="CustomizeTopCustomizeSwitchでユニット名を表示する際に使用する。 SwitchTypeVariableUnitの時、&quot;[modelNo] for Assist&quot;になる場合がある。" />
       <item value="カスタマイズ画面での表示名" />
-      <item value="表示名とアシストモード表示を設定できるか" />
-      <item value="predicate" />
-      <item value="ファームウェア" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
+        <entry key="CHINESE" value="172" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="45" />
-        <entry key="JAPANESE" value="169" />
+        <entry key="JAPANESE" value="173" />
       </map>
     </option>
   </component>
