@@ -27,6 +27,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="マスタ(DI 2)の基底クラス" />
+      <item value="ユニットカテゴリ番号" />
       <item value="必要なbit桁数" />
       <item value="Returns the name of this enum constant, exactly as declared in its enum declaration." />
       <item value="ドライブユニットのエラーログ取得方法のタイプ 　ユニット仕様書_データの設定と取得のDUタブ、取得データを参照" />
@@ -38,7 +40,6 @@
       <item value="モバイル版未対応" />
       <item value="can Preset" />
       <item value="explicitly" />
-      <item value="ユニットカテゴリ番号" />
       <item value="エラーチェックの種類" />
       <item value="バッテリー" />
       <item value="マスターユニット" />
@@ -76,14 +77,13 @@
       <item value="表示名とアシストモード表示を設定できるか" />
       <item value="predicate" />
       <item value="ファームウェア" />
-      <item value="Series No" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
+        <entry key="CHINESE" value="166" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="45" />
-        <entry key="JAPANESE" value="164" />
+        <entry key="JAPANESE" value="167" />
       </map>
     </option>
   </component>
