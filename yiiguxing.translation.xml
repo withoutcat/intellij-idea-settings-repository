@@ -27,6 +27,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="DI 2バッテリー" />
+      <item value="エラーチェックの種類" />
       <item value="マスタ(DI 2)の基底クラス" />
       <item value="ユニットカテゴリ番号" />
       <item value="必要なbit桁数" />
@@ -40,12 +42,10 @@
       <item value="モバイル版未対応" />
       <item value="can Preset" />
       <item value="explicitly" />
-      <item value="エラーチェックの種類" />
       <item value="バッテリー" />
       <item value="マスターユニット" />
       <item value="バッテリーマウント" />
       <item value="内蔵バッテリー" />
-      <item value="DI 2バッテリー" />
       <item value="カテゴリ" />
       <item value="モデル名" />
       <item value="アプリでの表示名" />
@@ -80,10 +80,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
+        <entry key="CHINESE" value="168" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="45" />
-        <entry key="JAPANESE" value="167" />
+        <entry key="JAPANESE" value="169" />
       </map>
     </option>
   </component>
