@@ -27,6 +27,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ユニットの並び順を機能別に定義" />
+      <item value="不明なユニットが存在する" />
       <item value="kermit" />
       <item value="crashlytics" />
       <item value="Crashlytics Log Writer" />
@@ -75,15 +77,13 @@
       <item value="シフタースイッチ" />
       <item value="ファイル名" />
       <item value="ユニット番号" />
-      <item value="シリーズ番号" />
-      <item value="実装クラスの場合(InterfaceやAbstractではない)trueを返す" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
+        <entry key="CHINESE" value="187" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="55" />
-        <entry key="JAPANESE" value="186" />
+        <entry key="JAPANESE" value="188" />
       </map>
     </option>
   </component>
