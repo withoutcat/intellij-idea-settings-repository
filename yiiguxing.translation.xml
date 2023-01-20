@@ -26,10 +26,20 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="2207" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="DB上でその他に分類されるカテゴリ(CJ,不明、その他、FWが壊れたユニット" />
+      <item value="CANアダプター" />
+      <item value="Series Noが不明なユニットを認識した場合にこのクラスで表現します。" />
+      <item value="enum entry CJ Enum constant ordinal: 19 盒式连接器" />
+      <item value="カセットジャンクション" />
+      <item value="E-BIKEにはEWWのユニットは接続されないがEW-EN 100をEWWと定義しているためEWWを含める" />
+      <item value="make Sorted Unit Category" />
+      <item value="sorted Unit Categories" />
       <item value="削除する" />
       <item value="他社E-bike system バッテリエラーダイアログ、チャート図表示用" />
-      <item value="CANアダプター" />
       <item value="ユニットの並び順を機能別に定義" />
       <item value="不明なユニットが存在する" />
       <item value="kermit" />
@@ -70,20 +80,13 @@
       <item value="can Preset" />
       <item value="explicitly" />
       <item value="マスターユニット" />
-      <item value="バッテリーマウント" />
-      <item value="内蔵バッテリー" />
-      <item value="カテゴリ" />
-      <item value="モデル名" />
-      <item value="アプリでの表示名" />
-      <item value="メーカ名" />
-      <item value="SHIMANO以外" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
+        <entry key="CHINESE" value="195" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="55" />
-        <entry key="JAPANESE" value="191" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="JAPANESE" value="196" />
       </map>
     </option>
   </component>
