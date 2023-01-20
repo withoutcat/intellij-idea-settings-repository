@@ -27,6 +27,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="削除する" />
       <item value="他社E-bike system バッテリエラーダイアログ、チャート図表示用" />
       <item value="CANアダプター" />
       <item value="ユニットの並び順を機能別に定義" />
@@ -76,14 +77,13 @@
       <item value="アプリでの表示名" />
       <item value="メーカ名" />
       <item value="SHIMANO以外" />
-      <item value="シフタースイッチ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
+        <entry key="CHINESE" value="190" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="55" />
-        <entry key="JAPANESE" value="190" />
+        <entry key="JAPANESE" value="191" />
       </map>
     </option>
   </component>
