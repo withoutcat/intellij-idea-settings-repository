@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="deserialize" />
       <item value="識別子がSwitchか" />
       <item value="Function Border" />
       <item value="復旧時にFWファイル名特定不可" />
@@ -79,13 +80,12 @@
       <item value="対応しているマスターユニットかどうかを判定する" />
       <item value="Returns true if at least one element matches the given predicate." />
       <item value="SMBmr2Unit.MODEL_NO: モバイル版未対応" />
-      <item value="SMBtr2Unit.MODEL_NO: モバイル版未対応" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
+        <entry key="CHINESE" value="222" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="JAPANESE" value="222" />
       </map>
     </option>
