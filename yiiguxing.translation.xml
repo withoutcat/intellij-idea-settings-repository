@@ -30,6 +30,10 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="DUに接続されているバッテリーの名称を取得" />
+      <item value="画面に表示する場合は" />
+      <item value="他社バッテリの製品名" />
+      <item value="他社バッテリ（通信でメーカが判別できるもの)" />
       <item value="Manufacture ID" />
       <item value="時刻をカスタマイズ可能か" />
       <item value="can Customize Time" />
@@ -76,17 +80,13 @@
       <item value="取得したユニット番号がPCE 1系かどうかをチェック(ビット)" />
       <item value="ユニットカテゴリ番号" />
       <item value="ユニットのカテゴリ" />
-      <item value="Could not resolve all files for configuration ':SharedCode:jvmCompileClasspath'." />
-      <item value="configuration" />
-      <item value="OSSライセンスを追加する" />
-      <item value="pre Build前にライセンス情報を追加する" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
+        <entry key="CHINESE" value="233" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="65" />
-        <entry key="JAPANESE" value="230" />
+        <entry key="JAPANESE" value="234" />
       </map>
     </option>
   </component>
