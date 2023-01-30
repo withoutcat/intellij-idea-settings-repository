@@ -30,10 +30,11 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="エラーチェックの種類" />
+      <item value="ドライブユニット" />
       <item value="TODO: DUUnitを継承するように修正する" />
       <item value="接続可能なスプリンタースイッチ名" />
       <item value="対応していないマスターが接続されている" />
-      <item value="ドライブユニット" />
       <item value="マスターユニット" />
       <item value="モバイル版未対応" />
       <item value="モデル名" />
@@ -47,7 +48,6 @@
       <item value="他社バッテリ（通信でメーカが判別できるもの)" />
       <item value="時刻をカスタマイズ可能か" />
       <item value="can Customize Time" />
-      <item value="エラーチェックの種類" />
       <item value="バッテリー" />
       <item value="&quot;ユニッタのカタログ番号&quot;はありません" />
       <item value="カテゴリ" />
@@ -83,10 +83,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
+        <entry key="CHINESE" value="247" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="246" />
+        <entry key="JAPANESE" value="248" />
       </map>
     </option>
   </component>
