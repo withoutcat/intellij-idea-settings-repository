@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="カテゴリ" />
       <item value="deserialize" />
       <item value="識別子がSwitchか" />
       <item value="Function Border" />
@@ -45,7 +46,6 @@
       <item value="エラーチェックの種類" />
       <item value="DCASとn RF無線(UPDATENRF)のFWを持つユニット" />
       <item value="is Dfly Setting Supported" />
-      <item value="カテゴリ" />
       <item value="ユニットの並び順を機能別に定義" />
       <item value="EW ジャンクション" />
       <item value="クラスファイルの作成" />
@@ -86,7 +86,7 @@
         <entry key="CHINESE" value="222" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="63" />
-        <entry key="JAPANESE" value="222" />
+        <entry key="JAPANESE" value="223" />
       </map>
     </option>
   </component>
