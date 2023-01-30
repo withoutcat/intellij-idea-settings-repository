@@ -30,6 +30,13 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Manufacture ID" />
+      <item value="時刻をカスタマイズ可能か" />
+      <item value="can Customize Time" />
+      <item value="エラーチェックの種類" />
+      <item value="バッテリー" />
+      <item value="ファイル名" />
+      <item value="&quot;ユニッタのカタログ番号&quot;はありません" />
       <item value="カテゴリ" />
       <item value="deserialize" />
       <item value="識別子がSwitchか" />
@@ -43,7 +50,6 @@
       <item value="ワイヤレスユニット" />
       <item value="ジャンクション" />
       <item value="接続可能なスプリンタースイッチ名" />
-      <item value="エラーチェックの種類" />
       <item value="DCASとn RF無線(UPDATENRF)のFWを持つユニット" />
       <item value="is Dfly Setting Supported" />
       <item value="ユニットの並び順を機能別に定義" />
@@ -66,8 +72,6 @@
       <item value="setup Kermit" />
       <item value="フロントディレーラー" />
       <item value="Product ID" />
-      <item value="Manufacture ID" />
-      <item value="バッテリー" />
       <item value="E-BIKEバッテリー" />
       <item value="取得したユニット番号がPCE 1系かどうかをチェック(ビット)" />
       <item value="ユニットカテゴリ番号" />
@@ -76,17 +80,13 @@
       <item value="configuration" />
       <item value="OSSライセンスを追加する" />
       <item value="pre Build前にライセンス情報を追加する" />
-      <item value="シリーズ番号のみで判定できるもののみ" />
-      <item value="対応しているマスターユニットかどうかを判定する" />
-      <item value="Returns true if at least one element matches the given predicate." />
-      <item value="SMBmr2Unit.MODEL_NO: モバイル版未対応" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
+        <entry key="CHINESE" value="230" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="63" />
-        <entry key="JAPANESE" value="223" />
+        <entry key="ENGLISH" value="65" />
+        <entry key="JAPANESE" value="230" />
       </map>
     </option>
   </component>
