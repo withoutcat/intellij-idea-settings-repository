@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="モバイル版未対応" />
       <item value="モデル名" />
       <item value="ユニット名" />
       <item value="ファイル名" />
@@ -79,14 +80,13 @@
       <item value="setup Kermit" />
       <item value="フロントディレーラー" />
       <item value="Product ID" />
-      <item value="E-BIKEバッテリー" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
+        <entry key="CHINESE" value="239" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="239" />
+        <entry key="JAPANESE" value="240" />
       </map>
     </option>
   </component>
