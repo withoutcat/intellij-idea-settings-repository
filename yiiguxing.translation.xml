@@ -30,6 +30,12 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ユニットの画像ファイル名" />
+      <item value="CY2018以降のE-BIKE (DU-E7000以前)" />
+      <item value="CY2018以前のE_BIKE (DU-E8000以降. ※E8000だからE7000より新しいように思えるが、実際には古い)" />
+      <item value="DU-E 8000以降" />
+      <item value="Genres" />
+      <item value="システム仕様書(別紙)-ユニット一覧参照" />
       <item value="エラーチェックの種類" />
       <item value="ドライブユニット" />
       <item value="TODO: DUUnitを継承するように修正する" />
@@ -55,7 +61,6 @@
       <item value="識別子がSwitchか" />
       <item value="Function Border" />
       <item value="復旧時にFWファイル名特定不可" />
-      <item value="ユニットの画像ファイル名" />
       <item value="PL作業画面など" />
       <item value="Lightスイッチ選択時" />
       <item value="Switch Button Having" />
@@ -75,18 +80,13 @@
       <item value="E-BIKEにはEWWのユニットは接続されないがEW-EN 100をEWWと定義しているためEWWを含める" />
       <item value="make Sorted Unit Category" />
       <item value="sorted Unit Categories" />
-      <item value="削除する" />
-      <item value="他社E-bike system バッテリエラーダイアログ、チャート図表示用" />
-      <item value="不明なユニットが存在する" />
-      <item value="kermit" />
-      <item value="crashlytics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
+        <entry key="CHINESE" value="254" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="248" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="JAPANESE" value="255" />
       </map>
     </option>
   </component>
