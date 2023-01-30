@@ -30,6 +30,10 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="接続可能なスプリンタースイッチ名" />
+      <item value="対応していないマスターが接続されている" />
+      <item value="ドライブユニット" />
+      <item value="マスターユニット" />
       <item value="モバイル版未対応" />
       <item value="モデル名" />
       <item value="ユニット名" />
@@ -57,7 +61,6 @@
       <item value="ジャンクションA" />
       <item value="ワイヤレスユニット" />
       <item value="ジャンクション" />
-      <item value="接続可能なスプリンタースイッチ名" />
       <item value="DCASとn RF無線(UPDATENRF)のFWを持つユニット" />
       <item value="is Dfly Setting Supported" />
       <item value="ユニットの並び順を機能別に定義" />
@@ -77,16 +80,13 @@
       <item value="kermit" />
       <item value="crashlytics" />
       <item value="Crashlytics Log Writer" />
-      <item value="setup Kermit" />
-      <item value="フロントディレーラー" />
-      <item value="Product ID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
+        <entry key="CHINESE" value="244" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="240" />
+        <entry key="JAPANESE" value="245" />
       </map>
     </option>
   </component>
