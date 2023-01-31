@@ -30,6 +30,10 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="製品シリアル番号をサポートしているユニットか" />
+      <item value="minimum Bootloader Generation No" />
+      <item value="ユニット情報(シリーズNo.と型番)取得機能が追加された。" />
+      <item value="DCAS 2 iとなりFWアップデートのシーケンスが変わった" />
       <item value="DN 30_R 12はDN ALLには含めない" />
       <item value="DN 3_R 12はDN ALLには含めない" />
       <item value="引数のBit Setを分解し、いずれかが含まれていればtrueを返す" />
@@ -76,17 +80,13 @@
       <item value="カテゴリ" />
       <item value="deserialize" />
       <item value="識別子がSwitchか" />
-      <item value="Function Border" />
-      <item value="復旧時にFWファイル名特定不可" />
-      <item value="PL作業画面など" />
-      <item value="Lightスイッチ選択時" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
+        <entry key="CHINESE" value="272" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="71" />
-        <entry key="JAPANESE" value="270" />
+        <entry key="ENGLISH" value="73" />
+        <entry key="JAPANESE" value="273" />
       </map>
     </option>
   </component>
