@@ -30,6 +30,9 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="引数のBit Setを分解し、いずれかが含まれていればtrueを返す" />
+      <item value="管理するのに必要なbit桁数" />
+      <item value="桁数" />
       <item value="フォントカラー" />
       <item value="デバイス名" />
       <item value="パスキー" />
@@ -77,16 +80,13 @@
       <item value="Lightスイッチ選択時" />
       <item value="Switch Button Having" />
       <item value="ジャンクションA" />
-      <item value="ワイヤレスユニット" />
-      <item value="ジャンクション" />
-      <item value="DCASとn RF無線(UPDATENRF)のFWを持つユニット" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
+        <entry key="CHINESE" value="266" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="71" />
-        <entry key="JAPANESE" value="264" />
+        <entry key="JAPANESE" value="267" />
       </map>
     </option>
   </component>
