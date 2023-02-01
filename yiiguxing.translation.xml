@@ -30,6 +30,9 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ユニット名" />
+      <item value="モデル名" />
+      <item value="アプリでの表示名" />
       <item value="カテゴリ" />
       <item value="本インスタンスがマスターユニットかどうか" />
       <item value="マスターユニット" />
@@ -67,10 +70,7 @@
       <item value="接続可能なスプリンタースイッチ名" />
       <item value="対応していないマスターが接続されている" />
       <item value="モバイル版未対応" />
-      <item value="モデル名" />
-      <item value="ユニット名" />
       <item value="ファイル名" />
-      <item value="アプリでの表示名" />
       <item value="Manufacture ID" />
       <item value="DUに接続されているバッテリーの名称を取得" />
       <item value="画面に表示する場合は" />
@@ -83,10 +83,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
+        <entry key="CHINESE" value="282" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="74" />
-        <entry key="JAPANESE" value="278" />
+        <entry key="JAPANESE" value="283" />
       </map>
     </option>
   </component>
