@@ -30,6 +30,10 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="カテゴリ" />
+      <item value="本インスタンスがマスターユニットかどうか" />
+      <item value="マスターユニット" />
+      <item value="ドライブユニット" />
       <item value="IMAGE MODEL NO" />
       <item value="製品シリアル番号をサポートしているユニットか" />
       <item value="minimum Bootloader Generation No" />
@@ -59,11 +63,9 @@
       <item value="Genres" />
       <item value="システム仕様書(別紙)-ユニット一覧参照" />
       <item value="エラーチェックの種類" />
-      <item value="ドライブユニット" />
       <item value="TODO: DUUnitを継承するように修正する" />
       <item value="接続可能なスプリンタースイッチ名" />
       <item value="対応していないマスターが接続されている" />
-      <item value="マスターユニット" />
       <item value="モバイル版未対応" />
       <item value="モデル名" />
       <item value="ユニット名" />
@@ -78,15 +80,13 @@
       <item value="can Customize Time" />
       <item value="バッテリー" />
       <item value="&quot;ユニッタのカタログ番号&quot;はありません" />
-      <item value="カテゴリ" />
-      <item value="deserialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
+        <entry key="CHINESE" value="277" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="74" />
-        <entry key="JAPANESE" value="273" />
+        <entry key="JAPANESE" value="278" />
       </map>
     </option>
   </component>
