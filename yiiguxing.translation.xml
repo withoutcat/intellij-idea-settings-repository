@@ -30,6 +30,19 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="上限トルクの最小値" />
+      <item value="Rear Max Gear" />
+      <item value="get Selectable Max Torque Level Range" />
+      <item value="is Rear Max Gear" />
+      <item value="boot Patch Spec" />
+      <item value="renesas Spec" />
+      <item value="アップデート確認値" />
+      <item value="ファームウェアアップデートの閾値" />
+      <item value="以下のコマンドで取得した値を設定する" />
+      <item value="required Minimum Version" />
+      <item value="max Packet Size" />
+      <item value="order" />
+      <item value="パワーメータ用定義" />
       <item value="バージョン" />
       <item value="互換機能に対応するFWバージョン" />
       <item value="DU-E 8000 DU-E 8080のD-Fly、EW-EN 100 SC-E 6100 SC-E 7000に対応するFWバージョン" />
@@ -67,26 +80,13 @@
       <item value="CY2018以降のE-BIKE (DU-E7000以前)" />
       <item value="CY2018以前のE_BIKE (DU-E8000以降. ※E8000だからE7000より新しいように思えるが、実際には古い)" />
       <item value="DU-E 8000以降" />
-      <item value="Genres" />
-      <item value="システム仕様書(別紙)-ユニット一覧参照" />
-      <item value="エラーチェックの種類" />
-      <item value="TODO: DUUnitを継承するように修正する" />
-      <item value="接続可能なスプリンタースイッチ名" />
-      <item value="対応していないマスターが接続されている" />
-      <item value="モバイル版未対応" />
-      <item value="ファイル名" />
-      <item value="Manufacture ID" />
-      <item value="DUに接続されているバッテリーの名称を取得" />
-      <item value="画面に表示する場合は" />
-      <item value="他社バッテリの製品名" />
-      <item value="他社バッテリ（通信でメーカが判別できるもの)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
+        <entry key="CHINESE" value="296" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="74" />
-        <entry key="JAPANESE" value="291" />
+        <entry key="ENGLISH" value="83" />
+        <entry key="JAPANESE" value="297" />
       </map>
     </option>
   </component>
