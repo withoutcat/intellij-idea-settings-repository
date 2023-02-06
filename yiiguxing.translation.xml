@@ -30,6 +30,10 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="CY2018以前のE_BIKE (DU-E8000以降. ※E8000だからE7000より新しいように思えるが、実際には古い)" />
+      <item value="想定外の値が来た場合は読み飛ばす" />
+      <item value="リストからユニット番号とシリーズ番号を取得" />
+      <item value="対応ユニット一覧からユニット番号とシリーズ番号が一致するものを検索し、属性を持つか確認する" />
       <item value="シフタースイッチ" />
       <item value="get Error Check Category" />
       <item value="接続可能なスプリンタースイッチ名" />
@@ -76,18 +80,14 @@
       <item value="マップ3" />
       <item value="SPORTIVE" />
       <item value="ライディングキャラクタリスティック" />
-      <item value="変速タイミング" />
-      <item value="default Assist Pattern" />
-      <item value="取得タイプ1" />
-      <item value="ドライブユニット" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
+        <entry key="CHINESE" value="346" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="101" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="342" />
+        <entry key="JAPANESE" value="347" />
       </map>
     </option>
   </component>
