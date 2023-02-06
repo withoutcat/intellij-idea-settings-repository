@@ -30,10 +30,15 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ユニット名" />
+      <item value="カテゴリ名称" />
+      <item value="内蔵バッテリー" />
+      <item value="発見" />
+      <item value="指定したユニットのカテゴリ名称を取得する" />
+      <item value="Unit発見" />
       <item value="指定したインデックス内のプロパティ取得" />
       <item value="subtract" />
       <item value="intersect" />
-      <item value="ユニット名" />
       <item value="Returns a list containing only distinct elements from the given collection." />
       <item value="サポートユニットを取得する" />
       <item value="pattern" />
@@ -75,19 +80,14 @@
       <item value="以下のコマンドで取得した値を設定する" />
       <item value="required Minimum Version" />
       <item value="max Packet Size" />
-      <item value="order" />
-      <item value="パワーメータ用定義" />
-      <item value="バージョン" />
-      <item value="互換機能に対応するFWバージョン" />
-      <item value="DU-E 8000 DU-E 8080のD-Fly、EW-EN 100 SC-E 6100 SC-E 7000に対応するFWバージョン" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
+        <entry key="CHINESE" value="330" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="96" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="324" />
+        <entry key="JAPANESE" value="331" />
       </map>
     </option>
   </component>
