@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Configures the org.gradle.api.NamedDomainObjectContainer extension." />
       <item value="シリーズユニット番号は使用しないが作成のみしておく" />
       <item value="ブートパッチ機能" />
       <item value="世代開始時のブートローダーバージョン" />
@@ -37,7 +38,6 @@
       <item value="allとかruntimeとかetc.." />
       <item value="the optional module name identifying the dependencies to be excluded." />
       <item value="Adds an exclude rule to exclude transitive dependencies for all dependencies of this configuration. You can also add exclude rules per-dependency. See ModuleDependency.exclude. Params: group - the optional group identifying the dependencies to be excluded. module - the optional module name identifying the dependencies to be excluded. Returns: this" />
-      <item value="Configures the org.gradle.api.NamedDomainObjectContainer extension." />
       <item value="Specifies whether encounters of unknown properties in the input JSON should be ignored instead of throwing SerializationException. false by default." />
       <item value="ignore Unknown Keys" />
       <item value="allow Structured Map Keys" />
@@ -83,9 +83,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
+        <entry key="CHINESE" value="355" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="355" />
       </map>
