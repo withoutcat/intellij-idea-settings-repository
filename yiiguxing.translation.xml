@@ -30,6 +30,8 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="アドレスの範囲の配列 アドレスが複数の範囲に跨がる場合があるため、配列で保持する" />
+      <item value="エラーログ領域12のいずれか" />
       <item value="1つのエラーログのバイトサイズ" />
       <item value="開始アドレス" />
       <item value="エラーログ領域1" />
@@ -78,16 +80,14 @@
       <item value="get Sprinter Switch Name" />
       <item value="例:820-09-002 (SM-MU71)のようなモデル名を扱う" />
       <item value="ユニット名" />
-      <item value="指定したユニットのモデル名を取得する" />
-      <item value="モデル名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
+        <entry key="CHINESE" value="378" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="115" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="377" />
+        <entry key="JAPANESE" value="379" />
       </map>
     </option>
   </component>
