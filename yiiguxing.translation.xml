@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="エラーログ取得時の画面遷移の種類" />
       <item value="sheet:FWファイル一覧 - &quot;ユニッタのカタログ番号&quot;はありません" />
       <item value="ユニットカテゴリ番号" />
       <item value="互換ジャンル" />
@@ -79,15 +80,14 @@
       <item value="intersect" />
       <item value="Returns a list containing only distinct elements from the given collection." />
       <item value="サポートユニットを取得する" />
-      <item value="pattern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
+        <entry key="CHINESE" value="361" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="111" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="360" />
+        <entry key="JAPANESE" value="362" />
       </map>
     </option>
   </component>
