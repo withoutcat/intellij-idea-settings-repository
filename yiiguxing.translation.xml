@@ -31,6 +31,7 @@
     <option name="newTranslationDialogY" value="450" />
     <histories>
       <item value="個別データの中で必要なパラメータのバイト数" />
+      <item value="マップなし" />
       <item value="エラーID管理ファイルの対象を正規表現で抽出するための文字列パターン" />
       <item value="エラーログ領域12のいずれか 開始アドレスをint16で返す。正常終了以外は0を返す" />
       <item value="開始アドレスをint 16で返す。正常終了以外は0を返す" />
@@ -79,15 +80,14 @@
       <item value="シフタースイッチ" />
       <item value="get Error Check Category" />
       <item value="接続可能なスプリンタースイッチ名" />
-      <item value="対応するスプリンタースイッチ名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
+        <entry key="CHINESE" value="387" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="115" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="384" />
+        <entry key="JAPANESE" value="388" />
       </map>
     </option>
   </component>
