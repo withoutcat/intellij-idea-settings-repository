@@ -30,6 +30,8 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="上記以外の場合" />
+      <item value="変速種別が内装変速" />
       <item value="ライディングキャラクタリスティックタイプ" />
       <item value="DU Profile Set Pattern.jsonのデータ" />
       <item value="パーサー" />
@@ -78,16 +80,14 @@
       <item value="Specifies whether encounters of unknown properties in the input JSON should be ignored instead of throwing SerializationException. false by default." />
       <item value="ignore Unknown Keys" />
       <item value="allow Structured Map Keys" />
-      <item value="coerce Input Values" />
-      <item value="suffix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
+        <entry key="CHINESE" value="402" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="115" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="401" />
+        <entry key="JAPANESE" value="403" />
       </map>
     </option>
   </component>
