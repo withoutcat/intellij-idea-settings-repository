@@ -31,6 +31,10 @@
     <option name="newTranslationDialogY" value="450" />
     <histories>
       <item value="アシスト特性のUI上設定値と即値を取得する" />
+      <item value="アシスト特性のUI上設定値と即値のDictionary(Key:即値、Value:UI上設定値)" />
+      <item value="アシスト開始" />
+      <item value="indices" />
+      <item value="Returns an IntRange of the valid indices for this collection." />
       <item value="アシスト特性の即値データを取得する" />
       <item value="アシスト特性" />
       <item value="即値を取得する" />
@@ -76,18 +80,14 @@
       <item value="エラーログ領域1" />
       <item value="取得するアドレスの範囲" />
       <item value="common" />
-      <item value="バイト配列を作成する" />
-      <item value="address Ranges" />
-      <item value="error Id File Name Pattern" />
-      <item value="アドレスの範囲の配列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
+        <entry key="CHINESE" value="430" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="427" />
+        <entry key="JAPANESE" value="431" />
       </map>
     </option>
   </component>
