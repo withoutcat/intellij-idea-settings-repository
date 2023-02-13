@@ -30,6 +30,20 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="アシスト特性の即値データを取得する" />
+      <item value="DU即値シートの参照する表" />
+      <item value="プロファイルのJSON検索キーを取得する" />
+      <item value="Table Type" />
+      <item value="0: ECO ↓ 9: Powerful" />
+      <item value="アシスト特性のレベル" />
+      <item value="数値が大きくなるほど力強くなる" />
+      <item value="アシスト特性" />
+      <item value="アシスト特性レベル" />
+      <item value="プロファイル設定要求 と プロファイル設定要求の結果 を格納するクラス" />
+      <item value="データの設定" />
+      <item value="Profile Setting Fine Tune Mode" />
+      <item value="ユニット仕様書_データの設定 &gt; 取得のDUの即値" />
+      <item value="レベル15" />
       <item value="ライディングキャラクタリスティック、アシスト特性、上限トルク、アシスト開始パーサー" />
       <item value="ユニット仕様書_データの設定と取得.xlsxのDUの即値シート" />
       <item value="上記以外の場合" />
@@ -66,28 +80,14 @@
       <item value="エラーチェックの種類" />
       <item value="マップ2" />
       <item value="エラーログ取得時の画面遷移の種類" />
-      <item value="sheet:FWファイル一覧 - &quot;ユニッタのカタログ番号&quot;はありません" />
-      <item value="ユニットカテゴリ番号" />
-      <item value="互換ジャンル" />
-      <item value="アップデート確認値" />
-      <item value="プリセット互換性閾値" />
-      <item value="Configures the org.gradle.api.NamedDomainObjectContainer extension." />
-      <item value="シリーズユニット番号は使用しないが作成のみしておく" />
-      <item value="ブートパッチ機能" />
-      <item value="世代開始時のブートローダーバージョン" />
-      <item value="TODO: targetSdkVersion31から必要になるBluetoothの権限対応時に削除する" />
-      <item value="allとかruntimeとかetc.." />
-      <item value="the optional module name identifying the dependencies to be excluded." />
-      <item value="Adds an exclude rule to exclude transitive dependencies for all dependencies of this configuration. You can also add exclude rules per-dependency. See ModuleDependency.exclude. Params: group - the optional group identifying the dependencies to be excluded. module - the optional module name identifying the dependencies to be excluded. Returns: this" />
-      <item value="Specifies whether encounters of unknown properties in the input JSON should be ignored instead of throwing SerializationException. false by default." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
+        <entry key="CHINESE" value="417" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="118" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="405" />
+        <entry key="JAPANESE" value="418" />
       </map>
     </option>
   </component>
