@@ -30,6 +30,12 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="設定範囲" />
+      <item value="選択範囲を取得する" />
+      <item value="UI設定値を取得する" />
+      <item value="Assist Power" />
+      <item value="通过JSON里的字符串&quot;HIGH&quot;,&quot;LOW&quot;,&quot;MEDIUM&quot;转换成枚举类" />
+      <item value="ライディングキャラクタリスティックタイプ" />
       <item value="ライディングキャラクタリスティック設定値を取得する" />
       <item value="設定値(BOOST, TRAIL, ECOの順で格納)" />
       <item value="Character" />
@@ -60,7 +66,6 @@
       <item value="ユニット仕様書_データの設定と取得.xlsxのDUの即値シート" />
       <item value="上記以外の場合" />
       <item value="変速種別が内装変速" />
-      <item value="ライディングキャラクタリスティックタイプ" />
       <item value="DU Profile Set Pattern.jsonのデータ" />
       <item value="パーサー" />
       <item value="ユニット仕様書_データの設定と取得.xlsxのDUの即値シート ライディングキャラクタリスティック、アシスト特性、上限トルク、アシスト開始 パーサー" />
@@ -75,19 +80,14 @@
       <item value="エラーID管理ファイルの対象を正規表現で抽出するための文字列パターン" />
       <item value="エラーログ領域12のいずれか 開始アドレスをint16で返す。正常終了以外は0を返す" />
       <item value="開始アドレスをint 16で返す。正常終了以外は0を返す" />
-      <item value="エラーログ領域12のいずれか" />
-      <item value="アドレスの範囲の配列 アドレスが複数の範囲に跨がる場合があるため、配列で保持する" />
-      <item value="1つのエラーログのバイトサイズ" />
-      <item value="開始アドレス" />
-      <item value="エラーログ領域1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="434" />
+        <entry key="CHINESE" value="442" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="123" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="435" />
+        <entry key="JAPANESE" value="442" />
       </map>
     </option>
   </component>
