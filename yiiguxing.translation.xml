@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="指定したユニットの画像ファイル名を取得する" />
       <item value="Exception In Initializer Error" />
       <item value="Runs a new coroutine and blocks the current thread interruptibly until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in main functions and in tests." />
       <item value="バッテリー名からバッテリー情報(Manufacture ID, FixNo, Product ID)を取得する" />
@@ -79,15 +80,14 @@
       <item value="ユーザー情報設定" />
       <item value="エラーログを格納している領域のアドレスマップのタイプ" />
       <item value="個別データの中で必要なパラメータのバイト数" />
-      <item value="マップなし" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
+        <entry key="CHINESE" value="445" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="125" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="444" />
+        <entry key="JAPANESE" value="446" />
       </map>
     </option>
   </component>
