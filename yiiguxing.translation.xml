@@ -30,6 +30,8 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="bt listなし-&gt;未知のバッテリー設定" />
+      <item value="Manufacture ID, FixNo, Product IDからバッテリ情報を検索する" />
       <item value="Manufacture" />
       <item value="バッテリー名からバッテリー情報(Manufacture ID, FixNo, Product ID)を取得する" />
       <item value="バッテリオブジェクト" />
@@ -78,16 +80,14 @@
       <item value="変速種別が内装変速" />
       <item value="DU Profile Set Pattern.jsonのデータ" />
       <item value="パーサー" />
-      <item value="ユニット仕様書_データの設定と取得.xlsxのDUの即値シート ライディングキャラクタリスティック、アシスト特性、上限トルク、アシスト開始 パーサー" />
-      <item value="[sourceArray] の 0 から [length] 個の値を [destinationArray] の 0 から [length] までコピーする" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
+        <entry key="CHINESE" value="453" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="126" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="452" />
+        <entry key="JAPANESE" value="454" />
       </map>
     </option>
   </component>
