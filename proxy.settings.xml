@@ -4,6 +4,7 @@
     <option name="PROXY_HOST" value="10.1.128.235" />
     <option name="PROXY_PORT" value="3128" />
     <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="PROXY_EXCEPTIONS" value="localhost;127.0.0.1;10.*;*.neusoft.com" />
   </component>
 </application>
