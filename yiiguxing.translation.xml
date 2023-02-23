@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Specifies source files or directories for a copy. The given paths are evaluated as per org.gradle" />
       <item value="Specifies source files or directories for a copy. The given paths are evaluated as per org.gradle.api.Project.files(Object...)." />
       <item value="Sets the value of the property the given value, replacing whatever value the property already had. This method can also be used to discard the value of the property, by passing null as the value. The convention for this property, if any, will be used to provide the value instead. Params: value – The value, can be null." />
       <item value="navigation" />
@@ -79,13 +80,12 @@
       <item value="ライディングキャラリスティックのUIでの設定値をテーブル値に変換" />
       <item value="アシスト比、アシスト出力、上限トルク(DU-E80007000)の 「アシスト比」テーブル" />
       <item value="JSONの即値をアシスト開始のレベルに変換します" />
-      <item value="cs Teeth Patternデータ取得" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="503" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="503" />
         <entry key="LUXEMBOURGISH" value="1" />
