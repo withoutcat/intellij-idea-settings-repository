@@ -19,7 +19,7 @@
     <option name="lastTrimTime" value="1636806440513" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676860342376" />
+    <option name="lastTrimTime" value="1677476399021" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -30,6 +30,7 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Add project specific ProGuard rules here. You can control the set of applied configuration files using the proguardFiles setting in build.gradle. For more details, see http:developer.android.comguidedevelopingtoolsproguard.html If your project uses WebView with JS, uncomment the following and specify the fully qualified class name to the JavaScript interface class: -keepclassmembers class fqcn.of.javascript.interface.for.webview { public ; } Uncomment this to preserve the line number information for debugging stack traces. -keepattributes SourceFile,LineNumberTable If you keep the line number information, uncomment this to hide the original source file name. -renamesourcefileattribute SourceFile" />
       <item value="Adds an ANT style exclude pattern. This method may be called multiple times to append new patterns and multiple patterns may be specified in a single call. If excludes are not provided, then no files will be excluded. If excludes are provided, then files must not match any exclude pattern to be processed." />
       <item value="Configure the directory to assemble the compiled classes into." />
       <item value="Returns the source directory trees that make up this set. Does not filter source directories that do not exist." />
@@ -79,13 +80,12 @@
       <item value="トップ" />
       <item value="Asserts that the expected array is structurally equal to the actual array, i.e. contains the same number of the same elements in the same order, with an optional message. The elements are compared for equality with the equals function. For floating point numbers it means that NaN is equal to itself and -0.0 is not equal to 0.0." />
       <item value="ミドル" />
-      <item value="本処理ではOTHERは使わないが、定義上必要なため-1としておく" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="503" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="503" />
         <entry key="LUXEMBOURGISH" value="1" />
