@@ -2,6 +2,19 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="club.gclmit.plugin.jetbrains.gitfox">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData>
@@ -26,6 +39,17 @@
                   <option value="com.intellij.modules.java" />
                   <option value="com.intellij.modules.platform" />
                   <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.marketplace">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
