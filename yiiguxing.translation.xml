@@ -30,6 +30,8 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="個体情報を抽出したいユニット" />
+      <item value="指定された[units]の個体情報を抽出する" />
       <item value="The String class represents character strings. All string literals in Kotlin programs, such as &quot;abc&quot;, are implemented as instances of this class." />
       <item value="ユニット仕様書_TOP.xlsx 「互換NC時のジャンル特定シーケンス」を基にジャンル確認 同時接続台数チェック後にこの関数を呼ぶこと。チェック対象のジャンル機器は１台として処理している" />
       <item value="バッテリに対応するセルのリストを取得" />
@@ -78,16 +80,14 @@
       <item value="Basic Mode Profile Data Parcelable" />
       <item value="Suspension ModeをCDとする" />
       <item value="attention" />
-      <item value="スプリンター" />
-      <item value="switchconditionc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
+        <entry key="CHINESE" value="510" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="182" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="509" />
+        <entry key="JAPANESE" value="511" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
     </option>
