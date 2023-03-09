@@ -30,6 +30,8 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="呼び出し元が例外をスローした場合、 例外は無視され、 指定されたアクションが実行されます。" />
+      <item value="それ以外の場合は、元の結果を変更せずに返します。" />
       <item value="ユニットのモデル名の末尾に含まれる&quot;-L&quot;や&quot;-R&quot;, &quot;-GS&quot;, &quot;-SS&quot;, &quot;-SGS&quot;を省略したものを取得する ST-S705-Rも省略する 例：RD-6870-SS -&gt; RD-6870" />
       <item value="more Abbreviated Model No" />
       <item value="SW-EN 600-RはLも存在するが、Lは無線ユニットでこのメソッドを使用しないため-R表記を残しておく" />
@@ -78,16 +80,14 @@
       <item value="Adds an ANT style include pattern. This method may be called multiple times to append new patterns and multiple patterns may be specified in a single call. If includes are not provided, then all files in this container will be included. If includes are provided, then a file must match at least one of the include patterns to be processed." />
       <item value="Configures class filter in order to exclude declarations marked by specific annotations." />
       <item value="When constructing an instance of A, a naive injector implementation might go into an infinite loop constructing an instance of B to set on A, a second instance of A to set on B, a second instance of B to set on the second instance of A, and so on. A conservative injector might detect the circular dependency at build time and generate an error, at which point the programmer could break the circular dependency by injecting Provider&lt;A&gt; or Provider&lt;B&gt; instead of A or B respectively. Calling get() on the provider directly from the constructor or method it was injected into defeats the provider's ability to break up circular dependencies. In the case of method or field injection, scoping one of the dependencies (using singleton scope, for example) may also enable a valid circular relationship." />
-      <item value="Attached to a task property to indicate that the property specifies some input value for the task. This annotation should be attached to the getter method in Java or the property in Groovy. Annotations on setters or just the field in Java are ignored. This will cause the task to be considered out-of-date when the property has changed. This annotation cannot be used on a java.io.File object. If you want to refer to the file path, independently of its contents, return a String instead which returns the absolute path. If, instead, you want to refer to the contents and path of a file or a directory, use InputFile or InputDirectory respectively." />
-      <item value="Excludes have priority over includes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
+        <entry key="CHINESE" value="518" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="184" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="517" />
+        <entry key="JAPANESE" value="519" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
     </option>
