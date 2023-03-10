@@ -30,6 +30,8 @@
     <option name="newTranslationDialogX" value="2207" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ライト" />
+      <item value="ディスプレイ" />
       <item value="実行しようとする関数" />
       <item value="呼び出し元が例外をスローした場合、 例外は無視され、 指定されたアクションが実行されます。" />
       <item value="それ以外の場合は、元の結果を変更せずに返します。" />
@@ -78,16 +80,14 @@
       <item value="exclude Declarations From Codegen" />
       <item value="A Provider that will return the task when queried. The task may be created and configured at this point, if not already." />
       <item value="The 'java' plugin has been applied, but it is not compatible with the Android plugins." />
-      <item value="Adds an ANT style include pattern. This method may be called multiple times to append new patterns and multiple patterns may be specified in a single call. If includes are not provided, then all files in this container will be included. If includes are provided, then a file must match at least one of the include patterns to be processed." />
-      <item value="Configures class filter in order to exclude declarations marked by specific annotations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="521" />
+        <entry key="CHINESE" value="523" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="184" />
         <entry key="ITALIAN" value="1" />
-        <entry key="JAPANESE" value="522" />
+        <entry key="JAPANESE" value="524" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
     </option>
